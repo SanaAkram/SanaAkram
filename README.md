@@ -109,6 +109,3 @@
 
 - 🤝 Open to AI collaborations and opportunities  
 
----
-
-💡 *“The future belongs to those who build intelligent systems.”*
