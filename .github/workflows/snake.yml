@@ -1,5 +1,12 @@
 name: GitHub Snake Game
 
+# This repo's default GITHUB_TOKEN is read-only (Settings > Actions >
+# Workflow permissions) — without this, the "Deploy to Output Branch" step
+# 403s trying to push the generated SVGs to the output branch. Scoped to
+# just this workflow rather than flipping the repo-wide default.
+permissions:
+  contents: write
+
 on:
   # Regenerate daily so the animation reflects new contributions.
   schedule:
