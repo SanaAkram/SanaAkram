@@ -137,9 +137,21 @@ Full-stack AI platform connecting to Gmail via OAuth that classifies incoming em
 
 ## 📈 GitHub Stats
 
+<!-- github-readme-stats.vercel.app's shared public instance is currently
+paused (DEPLOYMENT_PAUSED) - a known, ongoing issue with that free shared
+deployment - so this uses the actively-maintained streak-stats fork plus
+Shields.io badges instead of depending on it. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaAkram&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanaAkram&theme=radical" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=SanaAkram&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanaAkram&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SanaAkram?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SanaAkram?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=fbbf24" alt="Total Stars" />
 </p>
 
 <p align="center">
