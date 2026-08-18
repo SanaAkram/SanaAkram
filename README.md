@@ -137,14 +137,12 @@ Full-stack AI platform connecting to Gmail via OAuth that classifies incoming em
 
 ## 📈 GitHub Stats
 
-<!-- github-readme-stats.vercel.app's shared public instance is currently
-paused (DEPLOYMENT_PAUSED) - a known, ongoing issue with that free shared
-deployment - so this uses the actively-maintained streak-stats fork plus
-Shields.io badges instead of depending on it. -->
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=SanaAkram&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
+<!-- github-readme-stats.vercel.app's shared instance is paused
+(DEPLOYMENT_PAUSED), and the streak-stats.demolab.com fork that replaced it
+also rendered broken on the live profile page (camo-proxy cache holding an
+earlier failure, on top of being another free community-run instance with
+its own uptime history) - both dropped in favor of Shields.io, which has
+been reliable in every check this session. -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanaAkram&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -152,6 +150,7 @@ Shields.io badges instead of depending on it. -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/SanaAkram?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/SanaAkram?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=fbbf24" alt="Total Stars" />
+  <img src="https://img.shields.io/github/last-commit/SanaAkram/SanaAkram?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
 </p>
 
 <p align="center">
